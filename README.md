@@ -50,11 +50,11 @@ https://dataplatform.cloud.ibm.com/dashboards/7ca7fbe1-2f62-4e01-8ef9-4f0b2bdb7c
 
 Purpose : 1. For findings & implications of top 10 Languages and. databases between current year
                 and next year.
-            2. Analysis the trend by three dashboards created as. below :
+          2. Analysis the trend by three dashboards created as. below :
                 Current Technology Usage
                 Future Technology Trend
                 Demographics Trend
-            3. To point out conclusion about implication in future and the outcome by 
+          3. To point out conclusion about implication in future and the outcome by 
                 respondents with ages, gender, education level and location.
  
 Methodology : Data Collecting
