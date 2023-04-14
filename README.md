@@ -24,8 +24,8 @@ IV.Data Wrangling Lab (M2DataWrangling-lab.ipynb)
 V.Exploratory Data Analysis Lab (M3ExploratoryDataAnalysis-lab.ipynb)
         Identify the distribution of data in the dataset.
         Identify outliers in the dataset.
-	    Remove outliers from the dataset.
-	    Identify correlation between features in the dataset.
+	Remove outliers from the dataset.
+	Identify correlation between features in the dataset.
 
 VI.Data Visualization Lab (M4DataVisualization-lab.ipynb)
         Visualize the distribution of data.
@@ -118,7 +118,7 @@ With Three Dashboard - OVERALL FINDINGS & IMPLICATIONS:
 Findings:
 
 1. Javascript is top one in programming language trends both years. Platforms to be used, will be
-    stable in future.
+   stable in future.
 2. Sharp increase desire rate of Typescript than that of Javascript.
 3. Data of Survey trends to developed countries, age of 27-29, male gender and high education level
    of Bachelor’s degree.
