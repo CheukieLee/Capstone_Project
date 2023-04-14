@@ -1,37 +1,37 @@
 # Capstone_Project
 I. Web Scraping Lab (Web-Scraping-Lab.ipynb)
-	Download a webpage using requests module
-	Scrape all links from a web page
-	Scrape all image urls from a web page
-	Scrape data from html tables
+        Download a webpage using requests module
+        Scrape all links from a web page
+        Scrape all image urls from a web page
+        Scrape data from html tables
 
 II.Survey Dataset Exploration Lab (M1ExploreDataSet-lab.ipynb)
-	Load the dataset that will used thru the capstone project.
-	Explore the dataset.
-	Get familier with the data types.
+        Load the dataset that will used thru the capstone project.
+        Explore the dataset.
+        Get familier with the data types.
 
 III.Collecting Job Data Using APIs (Collecting_Jobs_data_Using_API-Questions.ipynb)
-	Collect job data from Jobs API
-	Store the collected data into an excel spreadsheet.
+        Collect job data from Jobs API
+        Store the collected data into an excel spreadsheet.
 
 IV.Data Wrangling Lab (M2DataWrangling-lab.ipynb)
-	Identify duplicate values in the dataset.
-	Remove duplicate values from the dataset.
-	Identify missing values in the dataset.
-	Impute the missing values in the dataset.
-	Normalize data in the dataset.
+        Identify duplicate values in the dataset.
+        Remove duplicate values from the dataset.
+        Identify missing values in the dataset.
+        Impute the missing values in the dataset.
+        Normalize data in the dataset.
 
 V.Exploratory Data Analysis Lab (M3ExploratoryDataAnalysis-lab.ipynb)
-	Identify the distribution of data in the dataset.
-	Identify outliers in the dataset.
+        Identify the distribution of data in the dataset.
+        Identify outliers in the dataset.
 	Remove outliers from the dataset.
 	Identify correlation between features in the dataset.
 
 VI.Data Visualization Lab (M4DataVisualization-lab.ipynb)
-	Visualize the distribution of data.
-	Visualize the relationship between two features.
-	Visualize composition of data.
-	Visualize comparison of data.
+        Visualize the distribution of data.
+        Visualize the relationship between two features.
+        Visualize composition of data.
+        Visualize comparison of data.
 
 
 
@@ -42,7 +42,7 @@ Title : Analysis of data from survey with Dashboard.
 Raw Data : https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/
 
 Downloaded files : m5_survey_data_technologies-2.csv
-		   m5_survey_data_demographics.csv
+                   m5_survey_data_demographics.csv
 
 Introduction : With data from the Stack Overflow Developer Survey 2019, create dashboards
 		in the cloud of IBM Cognos dashboard embedded with Watson Studio.
@@ -53,10 +53,10 @@ https://dataplatform.cloud.ibm.com/dashboards/7ca7fbe1-2f62-4e01-8ef9-4f0b2bdb7c
 Purpose : 1. For findings & implications of top 10 Languages and databases between current year
              and next year.
           2. Analysis the trend by three dashboards created as below :
-	     Current Technology Usage
-	     Future Technology Trend 
-	     Demographics Trend
-          3. To point out conclusion about implication in future and the outcome by     
+             Current Technology Usage
+             Future Technology Trend
+             Demographics Trend
+          3. To point out conclusion about implication in future and the outcome by 
              respondents with ages, gender, education level and location.
  
 Methodology : Data Collecting
@@ -66,10 +66,16 @@ Methodology : Data Collecting
               Conclusion - interpreting the result.
 
 Factors and tools to used :
-             1. Using descriptive and predictive analytics by bar charts for top 10 Languages between 	        current year and next year to imply any factors existed. 
-	     2. Using descriptive and predictive analytics by column charts for top 10 Databases 		between current year and next year to imply any factors existed. 
-	     3. Analysis of Current and Future Technology Usage with Platforms and top 10 programming 		language,  databases and webframes by using bar, column, pie charts, word cloud, tree 		map and  hierarchy bubbles for predict the Technology trend in future.
-	     4. Analysis of Demographics of respondents with age, gender, education level and 			countries to understand the data resource(survey) by using pie, line, stack bar 		charts and map.
+             1. Using descriptive and predictive analytics by bar charts for top 10 Languages between
+                current year and next year to imply any factors existed. 
+             2. Using descriptive and predictive analytics by column charts for top 10 Databases 
+                between current year and next year to imply any factors existed. 
+             3. Analysis of Current and Future Technology Usage with Platforms and top 10 programming 
+                language,  databases and webframes by using bar, column, pie charts, word cloud, tree
+                map and  hierarchy bubbles for predict the Technology trend in future.
+             4. Analysis of Demographics of respondents with age, gender, education level and 
+                countries to understand the data resource(survey) by using pie, line, stack bar 
+                charts and map.
 
 Top 10 PROGRAMMING LANGUAGE TRENDS:
 Findings:
