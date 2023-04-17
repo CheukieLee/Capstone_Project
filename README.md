@@ -24,8 +24,8 @@ IV.Data Wrangling Lab (M2DataWrangling-lab.ipynb)
 V.Exploratory Data Analysis Lab (M3ExploratoryDataAnalysis-lab.ipynb)
         Identify the distribution of data in the dataset.
         Identify outliers in the dataset.
-	Remove outliers from the dataset.
-	Identify correlation between features in the dataset.
+        	Remove outliers from the dataset.
+        	Identify correlation between features in the dataset.
 
 VI.Data Visualization Lab (M4DataVisualization-lab.ipynb)
         Visualize the distribution of data.
@@ -41,15 +41,14 @@ Raw Data : https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-develop
 
 
 Downloaded files : m5_survey_data_technologies-2.csv
-                       m5_survey_data_demographics.csv
+                   m5_survey_data_demographics.csv
 
 Introduction : With data from the Stack Overflow Developer Survey 2019, create dashboards in the cloud of IBM Cognos dashboard embedded with Watson Studio.
 
 Dashboard Link :
 https://dataplatform.cloud.ibm.com/dashboards/7ca7fbe1-2f62-4e01-8ef9-4f0b2bdb7c9c/view/4023fc2839e916e95cf1d0e407ca2a0f2c36730fe1bbd155838d7b490d697997a8694694c8291f0e89475460f4e51a5fcd
 
-Purpose : 1. For findings & implications of top 10 Languages and. databases between current year
-                and next year.
+Purpose : 1. For findings & implications of top 10 Languages and. databases between current year and next year.
           2. Analysis the trend by three dashboards created as. below :
                 Current Technology Usage
                 Future Technology Trend
@@ -58,10 +57,10 @@ Purpose : 1. For findings & implications of top 10 Languages and. databases betw
                 respondents with ages, gender, education level and location.
  
 Methodology : Data Collecting
-                 Data Wrangling
-                 Data Analysing
-                 Data Visiualization -Generate Dashboard
-                 Conclusion - interpreting the result.
+              Data Wrangling
+              Data Analysing
+              Data Visiualization -Generate Dashboard
+              Conclusion - interpreting the result.
 
 Factors and tools to used :
              1. Using descriptive and predictive analytics by bar charts for top 10 Languages between
